@@ -1,4 +1,4 @@
-module github.com/sw250291/jqwsproxy
+module github.com/sw250391/jqwsproxy
 
 go 1.16
 
