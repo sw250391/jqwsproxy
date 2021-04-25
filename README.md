@@ -1,6 +1,6 @@
 # jqwsproxy
 
-`jqwsproxy` is a WebSocket proxy that supports [jq](https://stedolan.github.io/jq/) optional transformations on the incoming and outgoing WebSocket data.  It uses [websocketproxy](https://github.com/koding/websocketproxy) for the WebSocket proxy functionality and [gojq](https://github.com/itchyny/gojq) as a pure go implementation of jq
+`jqwsproxy` is a WebSocket proxy that supports optional [jq](https://stedolan.github.io/jq/) transformations on the incoming and outgoing WebSocket data.  It uses [websocketproxy](https://github.com/koding/websocketproxy) for the WebSocket proxy functionality and [gojq](https://github.com/itchyny/gojq) as a pure go implementation of jq
 
 ## Install
 
